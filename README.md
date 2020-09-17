@@ -1,5 +1,0 @@
-#Guessing Game
-
- 
-
-21
